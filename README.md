@@ -32,14 +32,14 @@ The county results were:
 
 The follwoing code was used to find county percentage:
 
-![Get_Votes_Calculate_Percentage](https://github.com/joeapodaca/stock-analysis/blob/main/2018%20Analyze.PNG)
+![Get_Votes_Calculate_Percentage](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/Get_Votes_Calculate_Percentage.PNG)
   
 The county with highest turnout was:
  - Denver
 
 The follwoing code was used to find the turnout:
 
-![Determine_Winning_County](https://github.com/joeapodaca/stock-analysis/blob/main/2018%20Analyze.PNG)
+![Determine_Winning_County](https://github.com/joeapodaca/Election_Analysis/blob/main/Resources/Determine_Winning_County.PNG)
 
 The candidates were:
   - Charles Casper Stockham
